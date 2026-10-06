@@ -6,8 +6,8 @@ orientation = "landscape";   // "landscape" or "portrait"
 
 // ---- Phone (unfolded) ----
 phone_long   = 158.4;
-phone_short  = 132.6;
-phone_thick  = 5.5;
+phone_short  = 143.2;   // corrected from spec (132.6) per retailer listings
+phone_thick  = 4.1;    // corrected from spec (5.5)
 pad_clear    = 1.4;          // XY expansion for scratch-safe pads (spec)
 
 // ---- Tray ----

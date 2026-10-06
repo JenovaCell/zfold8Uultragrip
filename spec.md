@@ -5,7 +5,7 @@ Front-facing clip-on tray that holds a fully unfolded Galaxy Z Fold8 Ultra
 of the 175 mm telescoping rail.
 
 ## Devices
-- Z Fold8 Ultra unfolded: 158.4 x ~132.6 x ~5.5 mm
+- Z Fold8 Ultra unfolded: 158.4 x 143.2 x 4.1 mm (corrected; original brief said 132.6 x 5.5)
 - MC1: 175 mm telescoping limit, Bluetooth LE (no USB-C alignment needed)
 
 ## Geometry
@@ -15,7 +15,7 @@ of the 175 mm telescoping rail.
 
 | Variant | Bucket width | Depth | Clearance |
 |---|---|---|---|
-| Portrait | 134.0 mm | 6.5 mm | +1.4 mm XY |
+| Portrait | 144.6 mm (brief said 134.0; = 143.2 + 1.4) | 6.5 mm | +1.4 mm XY |
 | Landscape | 159.8 mm | 6.5 mm | +1.4 mm XY |
 
 ## Print settings
