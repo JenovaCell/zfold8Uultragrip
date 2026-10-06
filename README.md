@@ -18,3 +18,12 @@ rendered or test-fit. The MC1 grip dimensions (`grip_w`, `grip_t`,
   past 158.4 mm, an unfolded Fold8 may fit without this adapter at all — test first.
 - No source found for MC1 handle/grip geometry: `grip_w`, `grip_t`, `clip_gap_x`
   remain placeholders. Thingiverse #6542406 could not be fetched (blocked).
+
+## MC1 official size diagram (manufacturer image, supplied by user)
+- Clamp opening: **min 3.94 in (100 mm) – max 7.09 in (180 mm)**. The brief's 175 mm was wrong.
+- Phone thickness limit: **<= 0.2 in (~5.1 mm)**; minimum clamped edge length **>= 3.54 in (90 mm)**.
+- Unfolded Fold8 Ultra (158.4 x 143.2 x 4.1 mm) is inside all three limits, so it
+  **should clamp natively in the MC1 in either orientation, no adapter needed**.
+  Caveats: thickness is the thin-edge figure, and the clamp bracket needs to grip
+  the frame edge without pressing the inner display or hinge. Test-fit before printing.
+- Not in the diagram: handle/grip geometry, so the clip dimensions remain placeholders.

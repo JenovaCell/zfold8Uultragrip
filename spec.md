@@ -6,7 +6,7 @@ of the 175 mm telescoping rail.
 
 ## Devices
 - Z Fold8 Ultra unfolded: 158.4 x 143.2 x 4.1 mm (corrected; original brief said 132.6 x 5.5)
-- MC1: 175 mm telescoping limit, Bluetooth LE (no USB-C alignment needed)
+- MC1: clamp opening 100-180 mm (manufacturer diagram; brief said 175), phone <= 5.1 mm thick, Bluetooth LE (no USB-C alignment needed)
 
 ## Geometry
 - Tray stands off 8–10 mm forward of the faceplate (clears D-pad/face buttons)
